@@ -30,12 +30,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sjain97/Flixster/blob/main/Flixster.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Sjain97/Flixster/blob/main/Flixster_submission.gif' width='' alt='Video Walkthrough' />
 
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap for macOS
+GIF created with [Kap](https://getkap.co/) for macOS
 
 
 ## License
