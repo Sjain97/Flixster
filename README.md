@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [x] Demostrated auto layout implemention as different phone size
+  - [x] Demostrated auto layout implemention as different phone size (iPhone 14 Pro and iPhone 14 Pro Max)
 - [x] Displays at least 5 different movies in a table view
 - [x] Can tap into detail view of movie with a full description, backdrop image, and title
  
@@ -31,6 +31,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Sjain97/Flixster/blob/main/Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://github.com/Sjain97/Flixster/blob/main/Flixster_submission.gif' width='' alt='Video Walkthrough' />
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap for macOS
