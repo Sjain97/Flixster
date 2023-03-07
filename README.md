@@ -30,8 +30,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sjain97/Flixster/blob/main/Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <img src='https://github.com/Sjain97/Flixster/blob/main/Flixster_submission.gif' width='' alt='Video Walkthrough' />
 
 
