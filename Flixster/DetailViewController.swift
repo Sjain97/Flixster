@@ -15,16 +15,19 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         
         // Do any additional setup after loading the view.
-        Nuke.loadImage(with: movie.backdropImage, into: backdropImage)
-        movieName.text = movie.movieName
+        let imageUrl = URL(string: "https://image.tmdb.org/t/p/original" + movie.poster_path.absoluteString)!
+        
+        Nuke.loadImage(with: imageUrl, into: backdropImage)
+        movieName.text = movie.title
         vote_average.text = String(movie.vote_average) + " Vote Average"
         votes.text = String(movie.vote_count) + " Votes"
         popularity.text = String(movie.popularity) + " Popularity"
-        movieDescription.text = movie.movieDescription
+        movieDescription.text = movie.overview
         
         
     }
     
+//    let imageUrl = URL(string: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/" + movie.poster_path.absoluteString)!
 
     /*
     // MARK: - Navigation
